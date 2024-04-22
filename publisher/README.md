@@ -4,3 +4,5 @@ b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the sub
 ![alt text](rabbitmq.png)
 ![alt text](terminals.png)
 [Describe this screenshot]
+![alt text](rabbitmq2.png)
+[Describe this screenshot]
