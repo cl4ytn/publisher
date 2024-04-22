@@ -1,0 +1,10 @@
+/Users/clayton/Desktop/UI/AP/mod8/publisher/publisher/target/debug/deps/libcrosstown_bus-d58ccde454cd8bcf.rmeta: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/tools/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/tools/helpers.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/queue_bus.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/message_handler.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/common.rs
+
+/Users/clayton/Desktop/UI/AP/mod8/publisher/publisher/target/debug/deps/crosstown_bus-d58ccde454cd8bcf.d: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/tools/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/tools/helpers.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/queue_bus.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/message_handler.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/common.rs
+
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/lib.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/tools/mod.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/tools/helpers.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/queue_bus.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/message_handler.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crosstown_bus-0.5.3/src/common.rs:
