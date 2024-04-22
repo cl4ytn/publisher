@@ -6,3 +6,5 @@ b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the sub
 [Describe this screenshot]
 ![alt text](rabbitmq2.png)
 [Describe this screenshot]
+![alt text](rabbitmq3.png)
+Answer why the total number of queue is as such (in my machine is 20, what about yours?)
