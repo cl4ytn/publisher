@@ -8,7 +8,6 @@ Because the subscriber and publisher programs share the same url, it means that 
 ![alt text](images/rabbitmq.png)
 
 - Sending and processing event
-
 ![alt text](images/terminals.png)
 Because both programs share the same URL amqp://guest:guest@localhost:5672, they connect to the same AMQP message broker. Over that message broker, the publisher sends messages and the subscriber receives them. UserCreatedEventMessage objects are published to the user_created queue by the publisher program. When the user_created queue gets messages, the subscriber program prints each one. Note that each object comes with a user_id and user_name to identify the user of that instance.
 
