@@ -6,10 +6,12 @@ Because the subscriber and publisher programs share the same url, it means that 
 
 - Running Rabbitmq
 ![alt text](images/rabbitmq.png)
+
 - Sending and processing event
+
 ![alt text](images/terminals.png)
 Because both programs share the same URL amqp://guest:guest@localhost:5672, they connect to the same AMQP message broker. Over that message broker, the publisher sends messages and the subscriber receives them. UserCreatedEventMessage objects are published to the user_created queue by the publisher program. When the user_created queue gets messages, the subscriber program prints each one. Note that each object comes with a user_id and user_name to identify the user of that instance.
+
 - Monitoring chart based on publisher
 ![alt text](images/rabbitmq2.png)
 The first graph shows the queued messages that the publisher sends to the message broker. The second graph shows the weight of the messages sent by the publisher with respect to the rate at which they are sent. The two graphs visualize the relation between published and received messages in real time. The purple spikes are the Consumer acks and the yellow spikes are the publishes. This allows us to get a concise understanding of how the publisher and subscriber programs interact with each other.
-
